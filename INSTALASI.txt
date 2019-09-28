@@ -1,0 +1,53 @@
+WEB
+di usahakan sebelum menginstall program sudah terlebih dahulu menginstall aplikasi XAMPP terlebih dahulu
+
+
+simpan folder simatau di
+
+Windows 
+Ke :folder C/xampp/htdoc/.... // simpan folder di sini
+
+linux 
+ke : ../opt/lampp/htdoc/... //simpan folder di sini
+
+
+
+
+
+Username		: ferizalsyah		
+Password		: 12345
+
+
+Selanjutnya buka http://localhost/phpmyadmin  -> buat database baru  setelah itu import database dari folder
+simantau yaitu db_penjualan 
+
+
+
+dan ini merupakan aplikasi web yang sudah di hosting
+pasarinduk.000webhostapp.com
+
+
+
+
+
+
+# STEP 1: Installasi Android
+
+
+
+install terlebih dahulu nodejs, python2 dan jdk8
+
+jika sudah menginstall nodejs, python2 dan jdk8 selanjutnya menginstall react native 
+
+npm install -g react-native-cli
+
+setelah itu masuk ke directori folder yang kita simpan 
+
+react-native run-android
+
+
+
+
+
+
+gciXK768ksz(P@jB7mgm
